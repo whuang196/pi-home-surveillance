@@ -1,0 +1,15 @@
+{
+	"show_video": true,
+	"use_dropbox": true,
+	"dropbox_key": "0sxthsipdcukhjh",
+	"dropbox_secret": "w7gcv0264adj9n6",
+	"dropbox_base_path": "YOUR_DROPBOX_APP_PATH",
+	"file_base_path":"/home/pi/picamerafolder",
+	"min_upload_seconds": 3.0,
+	"min_motion_frames": 8,
+	"camera_warmup_time": 2.5,
+	"delta_thresh": 5,
+	"resolution": [640, 480],
+	"fps": 16,
+	"min_area": 5000
+}
