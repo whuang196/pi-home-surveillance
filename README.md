@@ -8,16 +8,16 @@ Step #2 Run the Home Surveillance System & Save the Files locally
 Step #3 Run the Home Surveillance System & Save the Files in Dropbox                 
 Step #4 Run the Home Surveillance System & Save the Files in Local Shared Folder in the Same Network							                          5
 PART 2:  Installation Manual for Pi Surveillance System	
-Section#1 Installation Manual for OpenCV3					              
-Section#2 Installation for Camera Module 					             
-Section#3 Installation for Home Surveillance					 
+Section1 Installation Manual for OpenCV3					              
+Section2 Installation for Camera Module 					             
+Section3 Installation for Home Surveillance					 
 Appendix for pi_surveillance.py				 			  
 
 
-PART 1:  User Manual for Operating the Surveillance System
-Step #1 Setting up
-Once you insert the microSD with the home surveillance system installed. After it booted up.
-Run the following code to open up the virtual environment cv
+/PART 1:  User Manual for Operating the Surveillance System
+#Step 1 Setting up
+#Once you insert the microSD with the home surveillance system installed. After it booted up.
+/Run the following code to open up the virtual environment cv
 $source ~/.file
 $workon cv
 In the microSD I setted up, under /home/pi/
